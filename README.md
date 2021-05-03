@@ -45,6 +45,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## How To Use:
+
+Place lower bound next to "Over" and upper bound next to "Under" for each numerical category
+Each button corresponds to the prompts given. 
+
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
