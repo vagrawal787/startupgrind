@@ -2,9 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### git clone https://github.com/vagrawal787/startupgrind.git or download zip from github
+
+Then, naviagate to the directory with the project.
 
 ### `npm start`
 
